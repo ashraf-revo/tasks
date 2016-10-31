@@ -1,3 +1,5 @@
+package Q5;
+
 import static jdk.nashorn.internal.objects.Global.print;
 
 /**

@@ -1,3 +1,5 @@
+package Q6;
+
 import java.math.BigDecimal;
 import java.math.BigInteger;
 

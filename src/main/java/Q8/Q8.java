@@ -1,3 +1,5 @@
+package Q8;
+
 import java.util.Arrays;
 import java.util.IntSummaryStatistics;
 import java.util.stream.IntStream;
